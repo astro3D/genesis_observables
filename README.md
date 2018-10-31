@@ -3,3 +3,5 @@
 # Genesis Observables
 
 Plots illustrating simulation constraints mapped onto observables.
+
+Click the binder badge to interactively run any of the notebooks in your browser. 
