@@ -1,4 +1,0 @@
-# name min_redshift max_redshift angular_resolution surface_brightness_resolution
-MAGPI 	0.28	0.33	0.6 	23 # from T Mendel, 4 hours 0.8", with GLAO -> 0.6", mu is S/N~5
-SAMI 	0.004 	0.092 	2.2 	0 # from https://arxiv.org/abs/1707.08402
-Metals_across_time	1	2	0.6	23 # from ASTRO-3D GalEv whiteboard
