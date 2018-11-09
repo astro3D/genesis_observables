@@ -9,3 +9,13 @@ Spatial resolution is particle gravitional softening; any scale less than ~3x th
 | DM-only         | 500                     | 1024^3           | 1.01e10              |    0.0  (0.0)                      | ~10
 | DM-only         | 500                     | 2160^3           | 1.07e9               |    0.0  (0.0)                      | ~4.6
 | DM-only         | 500                     | 3800^3           | 1.97e8               |    -    (0.0)                      | ~2.3
+
+
+# Genesis cosmology
+
+- OmegaM (Total matter density)	 0.3121
+- OmegaL (Cosmological Constant) 0.6879
+- OmegaB (Baryon Density)	0.0491 (*)
+- h (Hubble Parameter, H0=h*100km/s/Mpc) 0.6751
+- ns (Scalar spectral index) 	0.9653
+- Sigma8 (Power Spectrum Normalisation)	0.8150
